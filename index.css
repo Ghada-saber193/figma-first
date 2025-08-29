@@ -283,7 +283,6 @@ main{
                     font-weight: 700;
                     font-style: Bold;
                     font-size: 24px;
-                    leading-trim: NONE;
                     line-height: 32px;
                     letter-spacing: 0px;
                 }
@@ -292,7 +291,6 @@ main{
                     font-weight: 500;
                     font-style: Medium;
                     font-size: 18px;
-                    leading-trim: NONE;
                     line-height: 28px;
                     letter-spacing: 0px;
                     color: #D9D9D9;
